@@ -12,5 +12,3 @@ public class Carro {
     Color= col; Marca=mar; Placa=pla;
   }
 }
-
-
